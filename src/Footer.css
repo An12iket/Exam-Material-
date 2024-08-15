@@ -1,0 +1,25 @@
+/* Footer.css */
+
+.footer {
+    background-color: #f1f1f1; /* Light gray background */
+    color: #333; /* Dark text color */
+    padding: 15px;
+    text-align: center;
+    font-size: 0.9rem;
+    width: 100%;
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    position: fixed; /* Fix the footer at the bottom */
+    bottom: 0;
+  }
+  
+  .footer p {
+    margin: 5px 0; /* Spacing between lines */
+  }
+  
+  @media (max-width: 600px) {
+    .footer {
+      font-size: 0.8rem; /* Slightly smaller font on mobile */
+      padding: 10px; /* Reduced padding for mobile */
+    }
+  }
+  

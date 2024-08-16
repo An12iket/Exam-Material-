@@ -16,7 +16,10 @@ const materials = {
       { name: 'Unit - 2', file: '/materials/IS/Unit 2.pdf' },
       { name: 'Unit 2 TransPosition', file: '/materials/IS/Unit 2 (2.0).pdf' },
     ],
-    QuestionBank: [],
+    QuestionBank: [
+      { name: 'Chapter 2', file: '/materials/IS/Chapter 2 question.docx'},
+      { name: 'Chapter 2(1.0)', file: '/materials/IS/Question Unit 2.jpg'},
+    ],
     PaperFormat: [
       { name: 'IS Paper Format.pdf', file: '/materials/IS/IS Mid-1 Syllabus and paper format.pdf' },
     ],

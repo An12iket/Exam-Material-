@@ -9,6 +9,9 @@ const materials = {
     Learning: [
       { name: 'Introduction to AI.pdf', file: '/materials/AI & ML/AI-ML.Matarial.pdf' },
     ],
+    QuestionBank:[
+      { name: 'Mid 1 (QB)', file: '/materials/AI & ML/Mid 1 (QB).pdf' },
+    ],
   },
   'is': {
     Learning: [
